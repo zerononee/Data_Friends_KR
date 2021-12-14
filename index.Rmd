@@ -1,0 +1,51 @@
+---
+author:
+output:
+  html_document: 
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    number_sections: true
+
+---
+
+## Data Friends Recruitment
+
+
+<div class = "row">
+  <div class = "col-md-6">
+
+```
+Data Friends 제1기 모집 공고
+모집대상:대전시의 중국인 유학생
+모집기간: 2021.12.20~2021.12.31
+교육비용:30만원(첫주 강의 무료)
+교육일정: 2022.01.10~2022.02.15
+설 연휴기간(2022.01.31~2022.02.22 제외)
+교육시간: 14~17시(오후 2시~오후 5시)
+교육장소: 배재대학교 21세기관 308호
+```
+[#Data_Friends](https://www.instagram.com/p/CW2cP-uFVQr/?utm_source=ig_web_copy_link), [#Big_data](https://www.instagram.com/explore/tags/big_data/),  [#招生公告](https://www.instagram.com/explore/tags/%E6%8B%9B%E7%94%9F%E5%85%AC%E5%91%8A/), [#R Studio](https://www.instagram.com/explore/tags/rstudio/), [#Python](https://www.instagram.com/explore/tags/python/), [#Big data analytics](https://www.instagram.com/explore/tags/big_data_analytics/)
+
+
+
+
+  </div>
+  <div class = "col-md-6">
+![](images/figure8.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div style="text-align: right"> [Chinese version](https://zerononee.github.io/Data_Friends/index.html) </div>
+
+</div>
+</div>
+
+<!-- We have been using R Markdown for the Ocean Health Index:  [**ohi-science.org/ohi-global**](http://ohi-science.org/ohi-global). -->
+<!-- And R Markdown is much more than just websites -- here's a [**one-minute video about R Markdown**](http://rmarkdown.rstudio.com/lesson-1.html) to get you excited. -->

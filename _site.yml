@@ -1,0 +1,29 @@
+name: "Data Friends"
+navbar:
+  title: "Data Friends"
+  type: inverse
+  left:
+
+    - icon: fa-info
+      href: index.html
+
+
+    - text: "Menu"
+      icon: fa-info
+      menu:
+        - text: "인사말"
+          href: blank.html
+
+        - text: "목표/연혁"
+          href: index.html
+          
+        - text: "조직 및 기능/전화번호"
+          href: Group.html
+          
+        - text: "찾아오시는길"
+          href: contact_information.html  
+          
+   
+  right:
+    - icon: fa-question fa-lg
+      href: https://example.com

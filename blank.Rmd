@@ -1,0 +1,37 @@
+---
+title: 
+author:
+output:
+  html_document: 
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    number_sections: true
+
+---
+
+----
+
+## Introduction
+
+<p>
+
+![](images/figure10.png)
+
+
+
+**"오늘의 나는 어제의 나보다 더 발전해야 하며 내일의 나는 오늘의 나보다 더 완벽해야 한다"**
+```
+안녕하세요! 데이터 프랜즈(Data Friends)입니다.
+저희 홈페이지에 방문해주신 여러분께 진심으로 감사드립니다.
+
+데이터 프랜즈(Data Friends)는 R, Python, Big Data 통계분석을 전문으로 중국어, 일본어 사법통역사 자격을 보유한 대표를 필두로 하여 중국 원어민 강사까지 상주하고 있는 한•중•일 대학(원)생 맞춤 교육서비스 회사입니다.
+
+저희 데이터 프랜즈는(Data Friends)는 교육생 여러분의 신용과 신뢰를 근본으로 발전을 목표로 하며, 언제든지 전화 주시면 친절하고 신속하게 교육 상담해 드림과 동시에 수준 높은 교육 서비스 제공으로 교육생 분들의 교육 만족에 최선을 다할 것을 저희 데이터 프랜즈(Data Friends) 회사 강사진들은 약속드립니다.
+```
+----
+
+
+
+<!-- We have been using R Markdown for the Ocean Health Index:  [**ohi-science.org/ohi-global**](http://ohi-science.org/ohi-global). -->
+<!-- And R Markdown is much more than just websites -- here's a [**one-minute video about R Markdown**](http://rmarkdown.rstudio.com/lesson-1.html) to get you excited. -->
